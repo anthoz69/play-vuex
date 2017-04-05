@@ -1,6 +1,6 @@
-# learn-vuex
+# play-vuex
 
-> A Vue.js project
+> Test Vuex on Vuejs use webpack-template
 
 ## Build Setup
 
